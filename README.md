@@ -11,7 +11,7 @@ It also supports ragged 2-Dimensional array.
 
 ##Copyright and license
 
-Snowplow is copyright 2012-2013 Snowplow Analytics Ltd.
+Android-2DViewPager is copyright 2012-2014
 
 Licensed under the *Apache License, Version 2.0* (the "License"); you may not use this software except in compliance with the License.
 
